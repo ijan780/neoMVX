@@ -1,6 +1,0 @@
-name: mvx-micro
-channels:
-  - defaults
-dependencies:
-  - python=3.13
-prefix: C:\Users\Allbritton_Lab\miniconda3\envs\mvx-micro
